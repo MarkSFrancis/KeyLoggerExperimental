@@ -1,0 +1,23 @@
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger\bin\Release\System Host.exe.config
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger\bin\Release\System Host.exe
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger\bin\Release\System Host.pdb
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger\bin\Release\System.Net.Http.dll
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger\obj\Release\KeyLogger.frmHome.resources
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger\obj\Release\KeyLogger.Properties.Resources.resources
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger\obj\Release\KeyLogger.csproj.GenerateResource.Cache
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger\obj\Release\System Host.exe
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger\obj\Release\System Host.pdb
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger\obj\Release\KeyLogger.csprojResolveAssemblyReference.cache
+H:\Visual Studio Projects\KeyLogger\KeyLogger\bin\Release\System Host.exe.config
+H:\Visual Studio Projects\KeyLogger\KeyLogger\obj\Release\System Host.exe
+H:\Visual Studio Projects\KeyLogger\KeyLogger\obj\Release\System Host.pdb
+H:\Visual Studio Projects\KeyLogger\KeyLogger\bin\Release\System Host.exe
+H:\Visual Studio Projects\KeyLogger\KeyLogger\bin\Release\System Host.pdb
+H:\Visual Studio Projects\KeyLogger\KeyLogger\bin\Release\System.Net.Http.dll
+H:\Visual Studio Projects\KeyLogger\KeyLogger\obj\Release\KeyLogger.csprojResolveAssemblyReference.cache
+H:\Visual Studio Projects\KeyLogger\KeyLogger\obj\Release\KeyLogger.frmHome.resources
+H:\Visual Studio Projects\KeyLogger\KeyLogger\obj\Release\KeyLogger.Properties.Resources.resources
+H:\Visual Studio Projects\KeyLogger\KeyLogger\obj\Release\KeyLogger.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\KeyLogger\KeyLogger\bin\Release\System Host.exe.config
+D:\Visual Studio Projects\KeyLogger\KeyLogger\obj\Release\System Host.exe
+D:\Visual Studio Projects\KeyLogger\KeyLogger\obj\Release\System Host.pdb

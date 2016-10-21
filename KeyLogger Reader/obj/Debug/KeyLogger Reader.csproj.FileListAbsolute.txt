@@ -1,0 +1,21 @@
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\bin\Debug\KeyLogger Reader.exe.config
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\bin\Debug\KeyLogger Reader.exe
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\bin\Debug\KeyLogger Reader.pdb
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\bin\Debug\System.Net.Http.dll
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\obj\Debug\KeyLogger Reader.csprojResolveAssemblyReference.cache
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\obj\Debug\KeyLogger_Reader.frmHome.resources
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\obj\Debug\KeyLogger_Reader.Properties.Resources.resources
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\obj\Debug\KeyLogger Reader.csproj.GenerateResource.Cache
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\obj\Debug\KeyLogger Reader.exe
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\obj\Debug\KeyLogger Reader.pdb
+D:\Visual Studio Projects\GitHub\KeyLoggerExperimental\KeyLogger Reader\bin\Debug\KeyLogger Reader.exe.config
+D:\Visual Studio Projects\GitHub\KeyLoggerExperimental\KeyLogger Reader\bin\Debug\KeyLogger Reader.exe
+D:\Visual Studio Projects\GitHub\KeyLoggerExperimental\KeyLogger Reader\bin\Debug\KeyLogger Reader.pdb
+D:\Visual Studio Projects\GitHub\KeyLoggerExperimental\KeyLogger Reader\bin\Debug\System.Net.Http.dll
+D:\Visual Studio Projects\GitHub\KeyLoggerExperimental\KeyLogger Reader\bin\Debug\System.Net.Http.xml
+D:\Visual Studio Projects\GitHub\KeyLoggerExperimental\KeyLogger Reader\obj\Debug\KeyLogger Reader.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\GitHub\KeyLoggerExperimental\KeyLogger Reader\obj\Debug\KeyLogger_Reader.frmHome.resources
+D:\Visual Studio Projects\GitHub\KeyLoggerExperimental\KeyLogger Reader\obj\Debug\KeyLogger_Reader.Properties.Resources.resources
+D:\Visual Studio Projects\GitHub\KeyLoggerExperimental\KeyLogger Reader\obj\Debug\KeyLogger Reader.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\GitHub\KeyLoggerExperimental\KeyLogger Reader\obj\Debug\KeyLogger Reader.exe
+D:\Visual Studio Projects\GitHub\KeyLoggerExperimental\KeyLogger Reader\obj\Debug\KeyLogger Reader.pdb

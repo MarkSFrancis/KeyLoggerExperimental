@@ -1,0 +1,23 @@
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\bin\Release\KeyLogger Reader.exe.config
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\bin\Release\KeyLogger Reader.exe
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\bin\Release\KeyLogger Reader.pdb
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\bin\Release\System.Net.Http.dll
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\obj\Release\KeyLogger Reader.csprojResolveAssemblyReference.cache
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\obj\Release\KeyLogger_Reader.frmHome.resources
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\obj\Release\KeyLogger_Reader.Properties.Resources.resources
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\obj\Release\KeyLogger Reader.csproj.GenerateResource.Cache
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\obj\Release\KeyLogger Reader.exe
+C:\Users\IT-Mark\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\obj\Release\KeyLogger Reader.pdb
+H:\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\bin\Release\KeyLogger Reader.exe.config
+H:\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\obj\Release\KeyLogger Reader.exe
+H:\Downloads\KeyLogger\KeyLogger\KeyLogger Reader\obj\Release\KeyLogger Reader.pdb
+H:\Visual Studio Projects\KeyLogger\KeyLogger Reader\bin\Release\KeyLogger Reader.exe.config
+H:\Visual Studio Projects\KeyLogger\KeyLogger Reader\obj\Release\KeyLogger Reader.exe
+H:\Visual Studio Projects\KeyLogger\KeyLogger Reader\obj\Release\KeyLogger Reader.pdb
+H:\Visual Studio Projects\KeyLogger\KeyLogger Reader\bin\Release\KeyLogger Reader.exe
+H:\Visual Studio Projects\KeyLogger\KeyLogger Reader\bin\Release\KeyLogger Reader.pdb
+H:\Visual Studio Projects\KeyLogger\KeyLogger Reader\bin\Release\System.Net.Http.dll
+H:\Visual Studio Projects\KeyLogger\KeyLogger Reader\obj\Release\KeyLogger Reader.csprojResolveAssemblyReference.cache
+H:\Visual Studio Projects\KeyLogger\KeyLogger Reader\obj\Release\KeyLogger_Reader.frmHome.resources
+H:\Visual Studio Projects\KeyLogger\KeyLogger Reader\obj\Release\KeyLogger_Reader.Properties.Resources.resources
+H:\Visual Studio Projects\KeyLogger\KeyLogger Reader\obj\Release\KeyLogger Reader.csproj.GenerateResource.Cache

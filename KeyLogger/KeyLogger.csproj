@@ -84,6 +84,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KeyLoggerConfig\KeyLoggerConfig.csproj">
+      <Project>{f848123e-4d42-4919-91ca-d8ea24fba17a}</Project>
+      <Name>KeyLoggerConfig</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

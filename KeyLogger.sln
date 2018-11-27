@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyLogger", "KeyLogger\KeyLogger.csproj", "{1409375C-4F89-41A4-B2C3-582032049B69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyLogger Reader", "KeyLogger Reader\KeyLogger Reader.csproj", "{E100AAC0-EA5D-4316-9BEF-B0ADCF2FF71E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyLoggerConfig", "KeyLoggerConfig\KeyLoggerConfig.csproj", "{F848123E-4D42-4919-91CA-D8EA24FBA17A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +17,15 @@ Global
 		{1409375C-4F89-41A4-B2C3-582032049B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1409375C-4F89-41A4-B2C3-582032049B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1409375C-4F89-41A4-B2C3-582032049B69}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E100AAC0-EA5D-4316-9BEF-B0ADCF2FF71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E100AAC0-EA5D-4316-9BEF-B0ADCF2FF71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E100AAC0-EA5D-4316-9BEF-B0ADCF2FF71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E100AAC0-EA5D-4316-9BEF-B0ADCF2FF71E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F848123E-4D42-4919-91CA-D8EA24FBA17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F848123E-4D42-4919-91CA-D8EA24FBA17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F848123E-4D42-4919-91CA-D8EA24FBA17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F848123E-4D42-4919-91CA-D8EA24FBA17A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25F56CE2-D045-439B-B641-BC2140307EC6}
 	EndGlobalSection
 EndGlobal

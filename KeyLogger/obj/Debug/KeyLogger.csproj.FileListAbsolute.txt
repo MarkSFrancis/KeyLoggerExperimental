@@ -29,3 +29,15 @@ D:\Visual Studio Projects\GitHub\KeyLoggerExperimental\KeyLogger\obj\Debug\KeyLo
 D:\Visual Studio Projects\GitHub\KeyLoggerExperimental\KeyLogger\obj\Debug\KeyLogger.frmHome.resources
 D:\Visual Studio Projects\GitHub\KeyLoggerExperimental\KeyLogger\obj\Debug\KeyLogger.Properties.Resources.resources
 D:\Visual Studio Projects\GitHub\KeyLoggerExperimental\KeyLogger\obj\Debug\KeyLogger.csproj.GenerateResource.Cache
+D:\Code\Remote\KeyLoggerExperimental\KeyLogger\bin\Debug\System Host.exe.config
+D:\Code\Remote\KeyLoggerExperimental\KeyLogger\bin\Debug\System Host.exe
+D:\Code\Remote\KeyLoggerExperimental\KeyLogger\bin\Debug\System Host.pdb
+D:\Code\Remote\KeyLoggerExperimental\KeyLogger\bin\Debug\System.Net.Http.dll
+D:\Code\Remote\KeyLoggerExperimental\KeyLogger\obj\Debug\KeyLogger.csprojAssemblyReference.cache
+D:\Code\Remote\KeyLoggerExperimental\KeyLogger\obj\Debug\KeyLogger.FormHome.resources
+D:\Code\Remote\KeyLoggerExperimental\KeyLogger\obj\Debug\KeyLogger.Properties.Resources.resources
+D:\Code\Remote\KeyLoggerExperimental\KeyLogger\obj\Debug\KeyLogger.csproj.GenerateResource.cache
+D:\Code\Remote\KeyLoggerExperimental\KeyLogger\obj\Debug\KeyLogger.csproj.CoreCompileInputs.cache
+D:\Code\Remote\KeyLoggerExperimental\KeyLogger\obj\Debug\KeyLogger.csproj.CopyComplete
+D:\Code\Remote\KeyLoggerExperimental\KeyLogger\obj\Debug\System Host.exe
+D:\Code\Remote\KeyLoggerExperimental\KeyLogger\obj\Debug\System Host.pdb

